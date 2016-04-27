@@ -1,0 +1,5 @@
+package com.ztesoft.mybatis.model;
+
+public class MybatisSprintTest {
+
+}

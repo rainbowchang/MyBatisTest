@@ -1,0 +1,5 @@
+package com.stesoft.mybatis.model;
+
+public class Test {
+
+}

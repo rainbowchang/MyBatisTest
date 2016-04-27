@@ -1,0 +1,7 @@
+package com.ztesoft.mybatis.inter;
+
+import com.ztesoft.mybatis.model.User;
+
+public interface IUserOperation {
+	public User selectUserByID(int id);
+}

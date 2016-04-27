@@ -1,0 +1,5 @@
+package com.ztesoft.mybatis.inter;
+
+public interface IUserOperation {
+
+}
